@@ -42,7 +42,7 @@
     "http"
   ],
   "paths": {
-    "/pet": {
+    "/petv3": {
       "post": {
         "tags": [
           "pet"
